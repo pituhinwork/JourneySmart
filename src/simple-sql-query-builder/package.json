@@ -1,0 +1,56 @@
+{
+  "_args": [
+    [
+      "simple-sql-query-builder@1.0.4",
+      "/Volumes/Work/Github/journeysmart2"
+    ]
+  ],
+  "_from": "simple-sql-query-builder@1.0.4",
+  "_id": "simple-sql-query-builder@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha1-ws8lnTp1eCcuRZ/dXAIdpJiEzjE=",
+  "_location": "/simple-sql-query-builder",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "simple-sql-query-builder@1.0.4",
+    "name": "simple-sql-query-builder",
+    "escapedName": "simple-sql-query-builder",
+    "rawSpec": "1.0.4",
+    "saveSpec": null,
+    "fetchSpec": "1.0.4"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/simple-sql-query-builder/-/simple-sql-query-builder-1.0.4.tgz",
+  "_spec": "1.0.4",
+  "_where": "/Volumes/Work/Github/journeysmart2",
+  "author": {
+    "name": "Ruben Shalimov",
+    "email": "r_shalimov@inbox.ru"
+  },
+  "bugs": {
+    "url": "https://github.com/RobinBobin/simple-sql-query-builder/issues"
+  },
+  "dependencies": {
+    "simple-common-utils": "latest"
+  },
+  "description": "A simple SQL query builder.",
+  "homepage": "https://github.com/RobinBobin/simple-sql-query-builder#readme",
+  "keywords": [
+    "sql query builder"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "simple-sql-query-builder",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobinBobin/simple-sql-query-builder.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.4"
+}

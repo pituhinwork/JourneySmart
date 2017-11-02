@@ -1,0 +1,66 @@
+{
+  "_args": [
+    ["react-native-common-utils@2.1.0", "/Volumes/Work/Github/journeysmart2"]
+  ],
+  "_from": "react-native-common-utils@2.1.0",
+  "_id": "react-native-common-utils@2.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-gnwWxS6kV2w2G3MbxA6wBRQqYQw=",
+  "_location": "/react-native-common-utils",
+  "_phantomChildren": {
+    "css-mediaquery": "0.1.2",
+    "object-resolve-path": "1.1.1"
+  },
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-common-utils@2.1.0",
+    "name": "react-native-common-utils",
+    "escapedName": "react-native-common-utils",
+    "rawSpec": "2.1.0",
+    "saveSpec": null,
+    "fetchSpec": "2.1.0"
+  },
+  "_requiredBy": ["/"],
+  "_resolved":
+    "https://registry.npmjs.org/react-native-common-utils/-/react-native-common-utils-2.1.0.tgz",
+  "_spec": "2.1.0",
+  "_where": "/Volumes/Work/Github/journeysmart2",
+  "author": {
+    "name": "Ruben Shalimov",
+    "email": "r_shalimov@inbox.ru"
+  },
+  "bugs": {
+    "url": "https://github.com/RobinBobin/react-native-common-utils/issues"
+  },
+  "dependencies": {
+    "core-decorators": "latest",
+    "babel-plugin-transform-decorators-legacy": "latest",
+    "react-native-extended-stylesheet": "latest",
+    "react-native-localization": "latest",
+    "simple-common-utils": "latest"
+  },
+  "description": "Common utils for RN projects.",
+  "homepage": "https://github.com/RobinBobin/react-native-common-utils#readme",
+  "keywords": [
+    "React Native UI components",
+    "React Native utf8",
+    "google drive api",
+    "AsyncStorage",
+    "sql query builder",
+    "utils",
+    "email with multiple attachments",
+    "email with binary attachments"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-common-utils",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobinBobin/react-native-common-utils.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.1.0"
+}

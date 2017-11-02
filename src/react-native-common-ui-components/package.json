@@ -1,0 +1,63 @@
+{
+  "_args": [
+    [
+      "react-native-common-ui-components@1.0.0",
+      "/Volumes/Work/Github/journeysmart2"
+    ]
+  ],
+  "_from": "react-native-common-ui-components@1.0.0",
+  "_id": "react-native-common-ui-components@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-GA7WR7hdf4jtk4DzIxWgPU7apXI=",
+  "_location": "/react-native-common-ui-components",
+  "_phantomChildren": {
+    "babel-plugin-transform-decorators-legacy": "1.3.4",
+    "css-mediaquery": "0.1.2",
+    "object-resolve-path": "1.1.1",
+    "simple-common-utils": "../simple-common-utils"
+  },
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-common-ui-components@1.0.0",
+    "name": "react-native-common-ui-components",
+    "escapedName": "react-native-common-ui-components",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0"
+  },
+  "_requiredBy": ["/"],
+  "_resolved":
+    "https://registry.npmjs.org/react-native-common-ui-components/-/react-native-common-ui-components-1.0.0.tgz",
+  "_spec": "1.0.0",
+  "_where": "/Volumes/Work/Github/journeysmart2",
+  "author": {
+    "name": "Ruben Shalimov",
+    "email": "r_shalimov@inbox.ru"
+  },
+  "bugs": {
+    "url":
+      "https://github.com/RobinBobin/react-native-common-ui-components/issues"
+  },
+  "dependencies": {
+    "babel-plugin-transform-decorators-legacy": "latest",
+    "core-decorators": "latest",
+    "react-native-common-utils": "latest"
+  },
+  "description": "UI components that are commonly used in RN projects.",
+  "homepage":
+    "https://github.com/RobinBobin/react-native-common-ui-components#readme",
+  "keywords": ["ui components"],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-common-ui-components",
+  "repository": {
+    "type": "git",
+    "url":
+      "git+https://github.com/RobinBobin/react-native-common-ui-components.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}

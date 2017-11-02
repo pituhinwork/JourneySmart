@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

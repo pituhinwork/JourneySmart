@@ -1,0 +1,39 @@
+<div class="col-sm-12">
+    <div class="sec1 col-sm-12">
+      <div class="sec_head_top">Journey • $date$ </div>
+      <div class="sec_head_bottom">
+        <div class="txt_left col-sm-6">$journeyTypeName$ • $journeyReason$
+           <br><small class="font_px14">Mileage</small></div>
+        <div class="txt_right col-sm-6"><small>$journeyTypeCode$</small></div>
+      </div>
+      <div class="col-sm-12 table_content">
+      <table class="table">
+        <tbody>
+          <tr>
+            <td>$postcode1$</td>
+            <td>$postcode2$</td>
+            <td>$postcode3$</td>
+            <td>$postcode4$</td>
+            <td class="rightalign">$duration$</td>
+            <td class="rightalign">$distance$</td>
+            <td class="rightalign">$journeyTypeRate$</td>
+            <td class="rightalign">$cost$</td>
+            <td>$routeMode$</td>
+          </tr>
+          <tr class="green_tr" $greenBarStyle$>
+            <td>Expenses</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td class="rightalign">NET</td>
+            <td class="rightalign">VAT</td>
+            <td class="rightalign">TOTAL</td>
+            <td></td>
+          </tr>
+          $expenses$
+        </tbody>
+      </table>
+      </div>
+    </div>
+</div>

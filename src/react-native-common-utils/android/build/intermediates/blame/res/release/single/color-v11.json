@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

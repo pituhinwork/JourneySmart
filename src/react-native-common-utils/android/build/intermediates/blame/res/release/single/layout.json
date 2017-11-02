@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/redbox_item_title.xml",
+        "source": "/Users/kendo/.android/build-cache/a09b4c0ecf6da40a7edbfc2f5e0664b9917a755f/output/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/fps_view.xml",
+        "source": "/Users/sergey/.android/build-cache/55533dcb26ac6b89c669e52070a4f2b24b657886/output/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/redbox_item_title.xml",
+        "source": "/Users/sergey/.android/build-cache/55533dcb26ac6b89c669e52070a4f2b24b657886/output/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/redbox_item_frame.xml",
+        "source": "/Users/kendo/.android/build-cache/a09b4c0ecf6da40a7edbfc2f5e0664b9917a755f/output/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/notification_template_lines.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/dev_loading_view.xml",
+        "source": "/Users/kendo/.android/build-cache/a09b4c0ecf6da40a7edbfc2f5e0664b9917a755f/output/res/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/redbox_item_frame.xml",
+        "source": "/Users/sergey/.android/build-cache/55533dcb26ac6b89c669e52070a4f2b24b657886/output/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/redbox_view.xml",
+        "source": "/Users/sergey/.android/build-cache/55533dcb26ac6b89c669e52070a4f2b24b657886/output/res/layout/redbox_view.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/fps_view.xml",
+        "source": "/Users/kendo/.android/build-cache/a09b4c0ecf6da40a7edbfc2f5e0664b9917a755f/output/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/dev_loading_view.xml",
+        "source": "/Users/sergey/.android/build-cache/55533dcb26ac6b89c669e52070a4f2b24b657886/output/res/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/redbox_view.xml",
+        "source": "/Users/kendo/.android/build-cache/a09b4c0ecf6da40a7edbfc2f5e0664b9917a755f/output/res/layout/redbox_view.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/notification_template_lines.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Work/Projects/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/kendo/.android/build-cache/d672be78c8f560dc5f3104cffd00e114bd10c444/output/res/layout/abc_activity_chooser_view.xml"
+    }
+]

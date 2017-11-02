@@ -1,0 +1,56 @@
+{
+  "_args": [
+    [
+      "simple-common-utils@1.0.0",
+      "/Volumes/Work/Github/journeysmart2"
+    ]
+  ],
+  "_from": "simple-common-utils@1.0.0",
+  "_id": "simple-common-utils@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-VPbcR2rgZp71GejTY2GCKWvz4/I=",
+  "_location": "/simple-common-utils",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "simple-common-utils@1.0.0",
+    "name": "simple-common-utils",
+    "escapedName": "simple-common-utils",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0"
+  },
+  "_requiredBy": [
+    "/react-native-common-ui-components/react-native-common-utils",
+    "/react-native-common-utils",
+    "/react-native-google-drive-api-wrapper",
+    "/simple-sql-query-builder"
+  ],
+  "_resolved": "https://registry.npmjs.org/simple-common-utils/-/simple-common-utils-1.0.0.tgz",
+  "_spec": "1.0.0",
+  "_where": "/Volumes/Work/Github/journeysmart2",
+  "author": {
+    "name": "Ruben Shalimov",
+    "email": "r_shalimov@inbox.ru"
+  },
+  "bugs": {
+    "url": "https://github.com/RobinBobin/simple-common-utils/issues"
+  },
+  "description": "A collection of utility classes.",
+  "homepage": "https://github.com/RobinBobin/simple-common-utils#readme",
+  "keywords": [
+    "js utils"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "simple-common-utils",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobinBobin/simple-common-utils.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}

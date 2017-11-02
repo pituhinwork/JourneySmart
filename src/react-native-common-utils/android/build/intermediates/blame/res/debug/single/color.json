@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/sergey/Documents/journeysmart_test/src/react-native-common-utils/android/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/sergey/.android/build-cache/d0d300352d265c770c278d72fbfb16f259ab42e7/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    }
+]
